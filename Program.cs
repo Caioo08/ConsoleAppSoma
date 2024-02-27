@@ -18,7 +18,7 @@ namespace ConsoleAppSoma
 
             int resultado = n1 + n2;
 
-            Console.WriteLine("O resultado da some é " + resultado);
+            Console.WriteLine("O resultado da soma é " + resultado);
 
             Console.ReadKey();
         }
